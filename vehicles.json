@@ -1,0 +1,36 @@
+{
+    "vehicles" : [
+        {
+            "description": "VAN 1",
+            "lng": -47.842285,
+            "lat": -21.194763, 
+            "maxAWB": 15,
+            "deliveries": [],
+            "color":"red"
+        },
+        {
+            "description": "VAN 2",
+            "lng": -47.842285,
+            "lat": -21.194763, 
+            "maxAWB":15,
+            "deliveries": [],
+            "color":"blue"
+        },
+        {
+            "description": "VAN 3",
+            "lng": -47.842285,
+            "lat": -21.194763, 
+            "maxAWB": 10,
+            "deliveries": [],
+            "color":"green"
+        },        
+        {
+            "description": "VAN 4",
+            "lng": -47.842285,
+            "lat": -21.194763, 
+            "maxAWB": 9,
+            "deliveries": [],
+            "color":"purple"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "documents": [
+    {
+      "lng": "YOUR_LNG_DECIMAL",
+      "lat": "YOUR_LAT_DECIMAL",
+      "name": "YOUR_TITLE"
+    }
+  ]
+}
